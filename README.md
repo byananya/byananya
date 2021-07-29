@@ -4,7 +4,7 @@ My name is Ananya Das. I am an incoming graduate student in Computer Science at 
 
 I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
 
-I am currently learning Machine Learning to gain in-depth knowledge in Data Science and AI/ML. I would love to hear and discuss on modern technologies you are working on. Feel free to contact me on:
+I am currently learning Machine Learning to gain in-depth knowledge in Data Science and ML. I would love to hear and discuss on modern technologies you are working on. Feel free to contact me on:
 
 Email: das.ananya2607@gmail.com
 

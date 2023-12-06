@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ananya Das. I am a graduate student in Computer Science at University of California, Santa Cruz and a software engineer with avid interest in Algorithms, Data Structures and Databases. I have 5+ years of professional work experience at Shell India Markets Pvt. Ltd. and Infosys Ltd, working on developing robust automation frameworks for web and mobile applications.
+My name is Ananya Das. I am a graduate student in Computer Science at University of California, Santa Cruz and a software engineer with avid interest in Distributed Systems. I have 5+ years of professional work experience at Shell India Markets Pvt. Ltd. and Infosys Ltd, working on developing robust automation frameworks for web and mobile applications.
 
 I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
 

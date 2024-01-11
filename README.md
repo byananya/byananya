@@ -17,8 +17,8 @@ I recently graduated from University of California, Santa Cruz with a MS degree 
 * AWS and Automation Infrastructure
 
 📫 How to reach me
-Email: das.ananya2607@gmail.com
-LinkedIn: https://www.linkedin.com/in/ananya-das-a3016059/
+* Email: das.ananya2607@gmail.com
+* LinkedIn: https://www.linkedin.com/in/ananya-das-a3016059/
 
 😄 Pronouns:
 She/Her

@@ -1,20 +1,7 @@
 ### Hi there 👋
 
 👨🏻‍💻 Who am I
-
-* I'm a Software Engineer with a strong passion for developing applications and tools and Automation Solutions and am a polyglot programmer who loves to code in Python and Java.
-* I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
-* I believe in understanding and testing all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains.
-
-I recently graduated from University of California, Santa Cruz with a MS degree in Computer Science. I have more than 5 years of professional work experience at Shell India Markets Pvt. Ltd. and Infosys Ltd, working on developing robust automation frameworks for web and mobile applications.
-
-* I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. 
-* Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
-
-🌱 I’m currently learning about ...
-
-* Design patterns and Refactoring techniques
-* Machine Learning 
+* Redefining myself.
 
 📫 How to reach me
 * Email: das.ananya2607@gmail.com

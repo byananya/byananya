@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Who am I
 * 💡 Passionate about learning and working with Autonomous Vehicles.
-* 🧠 Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites
+* 🧠 Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites (as a side-project) with my co-founder! 
 
 
 

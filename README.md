@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👨🏻‍💻 Who am I
-* 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in research! 
+* 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in research! (Working as a Research Assistant @UCSC's AIEA Lab)
 * 🧠 Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites (as a side-project) with my co-founder! 
 
 

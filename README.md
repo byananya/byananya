@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 👨🏻‍💻 Who am I
-* Redefining myself.
+* Passionate about learning and working with Autonomous Vehicles.
+* Currently developing **LLM (Large Language Model) agents** for innovative AI applications
+
+
 
 📫 How to reach me
 * Email: das.ananya2607@gmail.com

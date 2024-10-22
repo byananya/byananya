@@ -7,11 +7,11 @@
 
 
 📫 How to reach me
-* Email: das.ananya2607@gmail.com
+* Email: anyads.111@gmail.com OR adas13@ucsc.edu
 * LinkedIn: https://www.linkedin.com/in/ananya-das-a3016059/
 
 😄 Pronouns:
-She/Her
+She/Hers
 
 ## 🛠️ Technologies & Tools
 | Category         | Tools                     |
@@ -31,9 +31,6 @@ She/Her
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-das-a3016059/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.ananya2607@gmail.com)
 
-## ⚡ Fun Facts
-- 🌱 I’m always learning new things in AI.
-- 🧑‍🏫 I mentor beginners in AI development.
 
 ## ☕ Coffee Lover
 I love sipping coffee while coding!

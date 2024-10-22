@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 👨🏻‍💻 Who am I
-* Passionate about learning and working with Autonomous Vehicles.
-* Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites
+* 💡 Passionate about learning and working with Autonomous Vehicles.
+* 🧠 Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites
 
 
 
@@ -12,6 +12,32 @@
 
 😄 Pronouns:
 She/Her
+
+## 🛠️ Technologies & Tools
+| Category         | Tools                     |
+| ---------------- | ------------------------- |
+| Languages        | Python, JavaScript, TypeScript |
+| AI Frameworks    | TensorFlow, PyTorch       |
+| Web Development  | React, Next.js, Node.js   |
+
+## 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-das-a3016059/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.ananya2607@gmail.com)
+
+## ⚡ Fun Facts
+- 🌱 I’m always learning new things in AI.
+- 🧑‍🏫 I mentor beginners in AI development.
+
+## ☕ Coffee Lover
+I love sipping coffee while coding!
+
 
 
 

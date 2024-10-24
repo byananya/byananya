@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Who am I
 * 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in research! (Working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
-* 🧠 Currently developing **LLM (Large Language Model) agents** for innovative AI applications to create websites (as a side-project) with my co-founder - Vibhor Sehgal 
+* 🧠 Currently developing **LLM (Large Language Model) agents** to create websites (as a side-project) with my co-founder - Vibhor Sehgal 
 
 
 

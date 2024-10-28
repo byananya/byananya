@@ -4,7 +4,7 @@
 * 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in research! (Working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 * 🧠 Currently developing **LLM (Large Language Model) agents** to create websites (as a side-project) with my co-founder - Vibhor Sehgal 
 
-*Hiring Alert* Currently looking for 1/2 people as a (full-stack developer and experienced with AI methodologies from California, United States (preferrably in-person)) to join us 
+**Hiring Alert** Currently looking for 1/2 people as a (full-stack developer and experienced with AI methodologies from California, United States (preferrably in-person)) to join us 
 
 
 📫 How to reach me

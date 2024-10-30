@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👨🏻‍💻 Who am I
-* 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
+* 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Working as a Research Assistant @UCSC's AIEA Lab **WITH**_ Prof. Leilani Gilpin)
 * 🧠 Currently developing **LLM (Large Language Model) agents** to create websites (as a side-project) with my co-founder - ![VIBHOR SEHGAL](https://img.shields.io/badge/VIBHOR%20SEHGAL-red?style=flat-square)
 
 **Hiring Alert** Currently looking for 1/2 people as a (full-stack developer and experienced with LLMs, NLP from Mountain View, California, United States (preferrably in-person)) to join us 

@@ -5,7 +5,7 @@
 
 🧠 Currently developing LLM (Large Language Model) agents to create websites as a side project with my co-founder, Vibhor Sehgal.
 
-👥 Actively looking to add two more team members, ideally full stack developers with expertise in AI methodologies like LLM and NLP. (Looking to build my team)
+👥 Actively looking to add 1 team member, ideally full stack developers with expertise in AI methodologies like LLM and NLP. (Looking to build my team)
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
 

@@ -2,12 +2,7 @@
 
 👨🏻‍💻 Who am I ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 * 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Working as a Research Assistant @UCSC's AIEA Lab **WITH** Prof. Leilani Gilpin)
-* 🧠 Currently developing **LLM (Large Language Model) agents** to create websites (as a side-project) with my co-founder - Vibhor Sehgal
-
-**Hiring Alert** Currently looking for 2 people: 
-
-1. Full Stack Developer: Skilled in front-end and back-end development, with experience in creating scalable applications.
-2. Machine Learning Engineer: Experienced in LLMs and NLP, with a strong focus on building intelligent, responsive applications.
+* 🧠 Currently developing **LLM (Large Language Model) agents** to create websites (as a side-project) with my co-founder - Vibhor Sehgal and I am currently looking for 1 more person to join our team (preferrably a full stack developer well versed with AI Methodologies such as LLM, NLP, etc) 
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
 

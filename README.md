@@ -3,8 +3,8 @@
 👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 
-🚀 In parallel, I'm building something extraordinary: LLM-powered agents that create websites in seconds. Proudly working alongside my co-founder & CTO, Vibhor Sehgal.
-👥 Actively looking to add 1 team member, ideally full stack developers with expertise in AI methodologies like LLM and NLP. (Looking to build my team)
+🚀 In parallel, I'm building something extraordinary: LLM-powered agents that create websites in seconds. Proudly working alongside my extraordinary co-founder & CTO, Vibhor Sehgal.
+👥 Actively looking to add 1 highly technical team member, ideally full stack developers with expertise in AI methodologies like LLM and NLP. (Looking to build my team)
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
 

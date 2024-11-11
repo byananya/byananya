@@ -8,7 +8,7 @@ Proudly working alongside my extraordinary co-founder & CTO, Vibhor Sehgal.
 &nbsp;
 
 👥 **Actively looking to add 2 exceptionally talented team members:** Ideally full stack developers with expertise in AI methodologies like LLM and NLP.  
-(Looking to build my team)
+(Looking to build my team - All the hiring goes through me)
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
 

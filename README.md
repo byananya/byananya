@@ -3,7 +3,7 @@
 👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 &nbsp;
 
-💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
+💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Proudly working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 
 🚀 **In parallel, I'm building something extraordinary:** LLM-powered agents that create websites in seconds.  
 Proudly working alongside my extraordinary co-founder & CTO, Vibhor Sehgal.

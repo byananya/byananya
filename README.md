@@ -9,7 +9,7 @@
 Proudly working alongside my co-founder & CTO, Vibhor Sehgal.
 &nbsp;
 
-👥 **Actively looking to add 2 exceptionally talented team members:** Ideally full stack developers with expertise in AI methodologies like LLM and NLP.  
+👥 **Actively looking to add 1 CTO & co-founder:** Ideally full stack development with expertise in AI methodologies like LLM and NLP.  
 (Looking to build my team - All the hiring goes through me, looking for exceptional talent - Kindly send your **Resumes** to **adas13@ucsc.edu**) 
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam

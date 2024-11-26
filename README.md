@@ -5,7 +5,7 @@
 
 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Proudly working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 
-🚀 **In parallel, I'm building something extraordinary:** LLM-powered agents that create websites in seconds.  
+🚀 **In parallel, I'm building something extraordinary:** LLM-powered agents that create websites in seconds coupled with workflow automation.  
 &nbsp;
 
 👥 **Actively looking to add 1 CTO + Co-Founder to contribute and 1 more team member to work with me:** Ideally full stack development with expertise in AI methodologies like LLM and NLP.  

@@ -2,6 +2,7 @@
 
 👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 &nbsp;
+- I like working in multiple research labs. 
 
 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Proudly working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 

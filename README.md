@@ -5,11 +5,8 @@
 
 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Proudly working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 
-🚀 **In parallel, I'm building something extraordinary:** LLM-powered agents that create websites in seconds coupled with workflow automation.  
+🚀 **In parallel, I'm building something extraordinary:** LLM-powered vertical SaaS AI agents that create websites in seconds coupled with workflow automation (A universal workflow platform)
 &nbsp;
-
-👥 **Actively looking to add 1 CTO + Co-Founder to contribute and 1 more team member to work with me:** Ideally full stack development with expertise in AI methodologies like LLM and NLP.  
-(Looking to build my team - All the hiring goes through me, looking for exceptional talent - Kindly send your **Resumes** to **adas13@ucsc.edu**) 
 
 #Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
 

@@ -8,8 +8,6 @@
 🚀 **In parallel, I'm building something extraordinary:** LLM-powered vertical SaaS AI agents that create websites in seconds coupled with workflow automation (A universal workflow platform)
 &nbsp;
 
-#Hiring #FullStackDeveloper #MachineLearning #NLP #LLM #JoinOurTeam
-
 📫 How to reach me
 * Email: anyads.111@gmail.com AND adas13@ucsc.edu
 * LinkedIn: https://www.linkedin.com/in/ananya-das-a3016059/

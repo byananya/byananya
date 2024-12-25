@@ -3,6 +3,8 @@
 👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 &nbsp;
 
+I like working in multiple projects at the same time! 
+
 💡 Passionate about learning and working with Autonomous Vehicles to contribute meaningfully in **research**! (Proudly working as a Research Assistant @UCSC's AIEA Lab with Prof. Leilani Gilpin)
 
 🚀 **In parallel, I'm building something extraordinary:** LLM-powered vertical SaaS AI agents that create websites in seconds coupled with workflow automation (A universal workflow platform)

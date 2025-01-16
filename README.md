@@ -1,4 +1,4 @@
-## Greetings 👋
+## Hello 👋
 
 👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
 &nbsp;

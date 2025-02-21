@@ -1,9 +1,5 @@
 ## Hello 👋
 
-👨🏻‍💻 Who am I? ![Gen Z](https://img.shields.io/badge/Gen%20Z-blue?style=flat-square)
-&nbsp;
-
-
 📫 How to reach me
 * Email: anyads.111@gmail.com AND adas13@ucsc.edu
 * LinkedIn: https://www.linkedin.com/in/ananya-das-a3016059/

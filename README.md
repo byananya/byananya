@@ -1,12 +1,6 @@
 
 Status - Updating! 
 
-## 🛠️ Technologies & Tools
-| Category         | Tools                     |
-| ---------------- | ------------------------- |
-| Languages        | Python, JavaScript, TypeScript |
-| AI Frameworks    | TensorFlow, PyTorch       |
-| Web Development  | React, Next.js, Node.js   |
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

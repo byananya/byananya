@@ -1,6 +1,13 @@
 
 ![status](https://img.shields.io/badge/status-updating-brightgreen)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python)
+<!-- Repository Stats -->
+![Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
+![Forks](https://img.shields.io/github/forks/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=Forks&labelColor=181717&color=238636)
+![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=PRs&labelColor=181717&color=8957e5)
+![Issues](https://img.shields.io/github/issues/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=Issues&labelColor=181717&color=dd4b39)
+![Contributors](https://img.shields.io/github/contributors/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
+![License](https://img.shields.io/github/license/yourusername/your-repo?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

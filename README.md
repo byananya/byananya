@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ananyadas2607">
-    <img src="" alt="Ananya Das" />  </a>
+   
 </p>
 
 <p align="center">

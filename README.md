@@ -1,7 +1,6 @@
 
 ![status](https://img.shields.io/badge/status-updating-brightgreen)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python)
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/janedoe](https://www.linkedin.com/in/ananya-das-a3016059/)
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

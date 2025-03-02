@@ -8,6 +8,8 @@
 ![Issues](https://img.shields.io/github/issues/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=Issues&labelColor=181717&color=dd4b39)
 ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
 ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

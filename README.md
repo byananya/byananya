@@ -1,6 +1,6 @@
 
 ![status](https://img.shields.io/badge/status-updating-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
 ![Stars](https://img.shields.io/github/stars/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
 ![Forks](https://img.shields.io/github/forks/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Forks&labelColor=181717&color=238636)

@@ -1,8 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/ananyadas2607">
-    <img src="https://img.shields.io/badge/Ananya_Das-002B5B?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D7&borderRadius=15" alt="Ananya Das" width="400"/>
-  </a>
-</h1>
 
 <p align="center">
   <a href="https://github.com/ananyadas2607/readme-typing-svg">

@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/ananyadas2607/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Amateur+machine+learning+enthusiast;AI+researcher;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Amateur+ML+enthusiast;AI+researcher;Always+Learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 

@@ -115,7 +115,11 @@
 </p>
 
 
-![Snake animation](https://github.com/ananyadas2607/ananyadas2607/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyadas2607/ananyadas2607/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyadas2607/ananyadas2607/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ananyadas2607/ananyadas2607/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

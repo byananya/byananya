@@ -3,7 +3,6 @@
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
   ![Stars](https://img.shields.io/github/stars/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
   ![Forks](https://img.shields.io/github/forks/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Forks&labelColor=181717&color=238636)
-  ![Pull Requests](https://img.shields.io/github/issues-pr/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=PRs&labelColor=181717&color=8957e5)
   ![Issues](https://img.shields.io/github/issues/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=Issues&labelColor=181717&color=dd4b39)
   ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)

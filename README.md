@@ -110,7 +110,7 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
 
-  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ananyadas2607&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 </div>
 

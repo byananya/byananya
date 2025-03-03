@@ -1,12 +1,8 @@
 <p align="center">
   <a href="https://github.com/ananyadas2607">
-   <p align="center">
-  <a href="https://github.com/ananyadas2607/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ananya+Das&font=Fira%20Code&center=true&width=440&height=60&color=0078D7&vCenter=true&pause=4000&size=40&bold=true" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ananya+Das&font=Montserrat:800&center=true&width=440&height=60&color=0078D7&vCenter=true&pause=4000&size=40&bold=true" />
   </a>
 </p>
-</p>
-
 <p align="center">
   <a href="https://github.com/ananyadas2607/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Amateur+ML+enthusiast;AI+researcher;Always+Learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />

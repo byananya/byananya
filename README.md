@@ -89,6 +89,13 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud / DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ## 📊 GitHub Metrics

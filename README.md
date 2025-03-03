@@ -41,12 +41,8 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
-
-<div align="center">
   
 # <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗘𝗫𝗣𝗘𝗥𝗧𝗜𝗦𝗘 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
-
-</div>
 
 <table>
   <tr>
@@ -58,8 +54,8 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -68,10 +64,9 @@
   <tr>
     <td align="center"><b>🧠 𝙳𝚘𝚖𝚊𝚒𝚗 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Machine%20Learning-4DB6AC?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Computer%20Science-FF9800?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Electrical%20Engineering-2196F3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Software%20Development-FF5722?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-4DB6AC?style=for-the-badge" />
     </td>
   </tr>
   <tr>
@@ -89,7 +84,6 @@
     <td align="center"><b>🗄️ 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -97,9 +91,6 @@
     <td align="center"><b>🧪 𝙼𝙻 / 𝙳𝙻 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</b></td>
     <td>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     </td>

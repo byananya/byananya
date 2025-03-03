@@ -2,7 +2,7 @@
   <a href="https://github.com/ananyadas2607">
    <p align="center">
   <a href="https://github.com/ananyadas2607/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ananya+Das&font=Fira%20Code&center=true&width=440&height=60&color=0078D7&vCenter=true&size=40&pause=4000&bold=true" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ananya+Das&font=Fira%20Code&center=true&width=440&height=60&color=0078D7&vCenter=true&size=40&bold=true" />
   </a>
 </p>
 </p>

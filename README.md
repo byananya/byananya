@@ -109,6 +109,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadas2607&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
+
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ananyadas2607&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyadas2607&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ananyadas2607.ananyadas2607)
+
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ananyadas2607" />
 </div>
 
 ## 🏆 GitHub Trophies

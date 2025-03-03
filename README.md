@@ -54,6 +54,7 @@
     <td>
       <img src="https://img.shields.io/badge/Computer%20Science-FF9800?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Software%20Development-FF5722?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Amateur%20ML%20Enthusiast-9C27B0?style=for-the-badge" />
     </td>
   </tr>
   <tr>

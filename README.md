@@ -90,7 +90,7 @@
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
   ![Profile Views](https://komarev.com/ghpvc/?username=ananyadas2607&color=blue&style=flat-square&label=Profile+Views)
   ![status](https://img.shields.io/badge/status-updating-brightgreen)
-  ![![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
 
 </table>
 

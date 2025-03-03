@@ -28,7 +28,7 @@
 </p>
 
 <br/>
-<p align="center">
+
   ![status](https://img.shields.io/badge/status-updating-brightgreen)
   ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
@@ -38,7 +38,7 @@
   ![Issues](https://img.shields.io/github/issues/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=Issues&labelColor=181717&color=dd4b39)
   ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
-</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
 <!--

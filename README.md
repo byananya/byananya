@@ -22,18 +22,6 @@
 <br/>
 
   
-  ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
-  ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
-  ![Stars](https://img.shields.io/github/stars/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
-  ![Forks](https://img.shields.io/github/forks/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Forks&labelColor=181717&color=238636)
-  ![Pull Requests](https://img.shields.io/github/issues-pr/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=PRs&labelColor=181717&color=8957e5)
-  ![Issues](https://img.shields.io/github/issues/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=Issues&labelColor=181717&color=dd4b39)
-  ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
-  ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
-  ![Profile Views](https://komarev.com/ghpvc/?username=ananyadas2607&color=blue&style=flat-square&label=Profile+Views)
-  ![status](https://img.shields.io/badge/status-updating-brightgreen)
- 
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
   
@@ -41,7 +29,7 @@
 
 <table>
   <tr>
-    <th width="20%" align="center"><h3>𝐒𝐤𝐢𝐥𝐥 𝐀𝐫𝐞𝐚</h3></th>
+    <th width="20%" align="center"><h3>𝐒𝐤𝐢𝐥𝐥</h3></th>
     <th align="center"><h3>𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</h3></th>
   </tr>
   <tr>
@@ -97,7 +85,19 @@
   
 </tr>
 
-  
+
+  ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+  ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
+  ![Stars](https://img.shields.io/github/stars/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
+  ![Forks](https://img.shields.io/github/forks/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Forks&labelColor=181717&color=238636)
+  ![Pull Requests](https://img.shields.io/github/issues-pr/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=PRs&labelColor=181717&color=8957e5)
+  ![Issues](https://img.shields.io/github/issues/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=yellow&label=Issues&labelColor=181717&color=dd4b39)
+  ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
+  ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ananyadas2607&color=blue&style=flat-square&label=Profile+Views)
+  ![status](https://img.shields.io/badge/status-updating-brightgreen)
+ 
+
 </table>
 
 ## 📊 GitHub Metrics

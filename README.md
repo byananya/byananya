@@ -118,6 +118,9 @@
   </a>
 </p>
 
+## 🏙️ Live GitHub Cityscape
+[![GitHub City](https://raw.githubusercontent.com/ananyadas2607/ananyadas2607/main/github-cityscape.png)](https://honzaap.github.io/GithubCity/?name=ananyadas2607&year=2025)
+
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

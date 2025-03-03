@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://github.com/ananyadas2607">
-   
+   <p align="center">
+  <a href="https://github.com/ananyadas2607/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ananya+Das+Here&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=4000" />
+  </a>
+</p>
 </p>
 
 <p align="center">

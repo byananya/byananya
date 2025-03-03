@@ -21,7 +21,7 @@
 
 <br/>
 
-  ![status](https://img.shields.io/badge/status-updating-brightgreen)
+  
   ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607)
   ![Stars](https://img.shields.io/github/stars/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Stars&labelColor=181717&color=E3B341)
@@ -31,6 +31,7 @@
   ![Contributors](https://img.shields.io/github/contributors/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=Contributors&labelColor=181717&color=238636)
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
   ![Profile Views](https://komarev.com/ghpvc/?username=ananyadas2607&color=blue&style=flat-square&label=Profile+Views)
+  ![status](https://img.shields.io/badge/status-updating-brightgreen)
  
 
 
@@ -52,7 +53,6 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
     </td>
   </tr>
   <tr>

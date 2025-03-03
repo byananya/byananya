@@ -114,7 +114,8 @@
   </a>
 </p>
 
-
+## 👯 Looking to Collaborate
+I'm interested in collaborating on open-source machine learning projects, especially those focused on ethical AI applications.
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

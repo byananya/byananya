@@ -118,9 +118,6 @@
   </a>
 </p>
 
-## 🏙️ Live GitHub Cityscape
-
-[Click here to view my GitHub Cityscape inside this repository! 🚀](cityscape.html)
 
 
 <!--

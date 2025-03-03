@@ -41,7 +41,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
   
-# <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗘𝗫𝗣𝗘𝗥𝗧𝗜𝗦𝗘 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+## 💻 Technical Skills & Expertise
 
 <table>
   <tr>

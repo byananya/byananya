@@ -107,9 +107,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
-## 🌟 Starred Topics
 
-![Starred Topics](https://metrics.lecoq.io/ananyadas2607?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&stars.limit=0&stars.topics=true&stars.topics.limit=10&config.timezone=America%2FLos_Angeles)
 
 
 <!--

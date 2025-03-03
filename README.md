@@ -106,7 +106,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ananyadas2607&theme=algolia&column=7&no-bg=true&no-frame=true" />
+  </a>
+</p>
 
 
 <!--

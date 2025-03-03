@@ -20,10 +20,6 @@
 </p>
 
 <br/>
-
-  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
   
 ## 💻 Technical Skills & Expertise
 
@@ -36,7 +32,6 @@
     <td align="center"><b>🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 / 𝙸𝙳𝙴</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -44,11 +39,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🧠 𝙳𝚘𝚖𝚊𝚒𝚗 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎</b></td>
+    <td align="center"><b>🧠 𝙳𝚘𝚖𝚊𝚒𝚗 Expertise</b></td>
     <td>
       <img src="https://img.shields.io/badge/Computer%20Science-FF9800?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Software%20Development-FF5722?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-4DB6AC?style=for-the-badge" />
     </td>
   </tr>
   <tr>
@@ -96,7 +90,7 @@
   ![License](https://img.shields.io/github/license/ananyadas2607/ananyadas2607?style=flat&logo=github&logoColor=white&label=License&labelColor=181717&color=2188ff)
   ![Profile Views](https://komarev.com/ghpvc/?username=ananyadas2607&color=blue&style=flat-square&label=Profile+Views)
   ![status](https://img.shields.io/badge/status-updating-brightgreen)
- 
+  ![![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=rose)](https://git.io/streak-stats)
 
 </table>
 

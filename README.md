@@ -114,12 +114,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/ananyadas2607/ananyadas2607/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600">
-</p>
-
-
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -102,14 +102,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananyadas2607&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyadas2607&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadas2607&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
-![Metrics](https://metrics.lecoq.io/ananyadas2607?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/yourusername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FLos_Angeles)
 <!--
 **ananyadas2607/ananyadas2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

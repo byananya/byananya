@@ -94,13 +94,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center"><b>🖥️ Human-Computer Interaction</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/AR/VR-008080?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Brain-Computer%20Interfaces-FF4081?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Wearable%20Tech-FF9800?style=for-the-badge" />
-  </td>
+  
 </tr>
 
   

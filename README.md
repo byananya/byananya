@@ -114,7 +114,7 @@
   </a>
 </p>
 
-## 🔥 3D GitHub Profile
+
 <p align="center">
   <img src="https://github.com/ananyadas2607/ananyadas2607/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600">
 </p>

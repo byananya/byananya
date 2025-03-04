@@ -25,11 +25,22 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/ananyadas2607?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ananyadas2607?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/stars/ananyadas2607?color=55960c&style=for-the-badge&labelColor=488207&logo=star&borderRadius=12"
+         style="border-radius: 12px; border: 3px solid #55960c; padding: 0.2rem;"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ananyadas2607?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ananyadas2607?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://anyads111.substack.com/">
-    <img alt="Substack" title="Follow my Substack newsletter" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" 
+         src="https://custom-icon-badges.demolab.com/github/followers/ananyadas2607?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&borderRadius=12"
+         style="border-radius: 12px; border: 3px solid #236ad3; padding: 0.2rem;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://anyads111.substack.com/">
+    <img alt="Substack" title="Follow my Substack newsletter" 
+         src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&borderRadius=12"
+         style="border-radius: 12px; border: 3px solid #FF6719; padding: 0.2rem;"/>
+  </a>
 </p>
 
 <br/>

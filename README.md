@@ -35,7 +35,8 @@
 <br/>
 
 <!--Github streak-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ananyadas2607&background=0D1117&stroke=00000000&ring=4C8EDA&fire=4C8EDA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF50&excludeDaysLabel=FFFFFF50&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyadas2607&theme=rose&hide_border=true)
+
 
 
 ## 💻 Technical Skills & Expertise

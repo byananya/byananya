@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyadas2607&theme=rose&hide_border=true)
+
 <!-- Social icons section -->
 
 <br/>
@@ -33,7 +33,9 @@
 </p>
 
 <br/>
-  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyadas2607&theme=rose&hide_border=true)
+
 ## 💻 Technical Skills & Expertise
 
 <table>

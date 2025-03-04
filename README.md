@@ -41,9 +41,9 @@
 </p>
 
 <!--Github streak-->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyadas2607&theme=rose)
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=dracula)
 
 ## 💻 Technical Skills & Expertise
 

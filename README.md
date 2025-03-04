@@ -24,10 +24,10 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/ananyadas2607?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" 
-         src="https://img.shields.io/github/stars/ananyadas2607?style=for-the-badge&color=55960c&labelColor=488207&border_radius=15"/>
-  </a>
+  <a href="#">
+    <img alt="python" title="Python" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://github.com/ananyadas2607?tab=followers">
     <img alt="followers" title="Follow me on Github" 

@@ -43,7 +43,7 @@
 <!--Github streak-->
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=dracula&count_private=true)
 
 ## 💻 Technical Skills & Expertise
 

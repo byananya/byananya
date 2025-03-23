@@ -136,7 +136,7 @@
 </p>
 
 ## LeetCode Stats
-- Profile: [ananyadas092](https://leetcode.com/ananyadas092/)
+- Profile: [ananyadas](https://leetcode.com/ananyadas092/)
 
 
 

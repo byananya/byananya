@@ -62,14 +62,7 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td align="center"><b>🧠 𝙳𝚘𝚖𝚊𝚒𝚗 Expertise</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Computer%20Science-FF9800?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Software%20Development-FF5722?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Amateur%20ML%20Enthusiast-9C27B0?style=for-the-badge" />
-    </td>
-  </tr>
+  
   <tr>
     <td align="center"><b>⚙️ 𝙲𝙸 / 𝙲𝙳</b></td>
     <td>
@@ -96,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🧪 𝙼𝙻 / 𝙳𝙻 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</b></td>
+    <td align="center"><b>🧪 𝙼𝙻 Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />

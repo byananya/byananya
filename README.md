@@ -10,7 +10,7 @@
   ![status](https://img.shields.io/badge/status-updating-brightgreen)
   
 <p align="center">
-  <a href="https://github.com/ananyadas2607/readme-typing-svg">
+  <a href="https://github.com/ananyadd/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Product+Engineer;Experienced+UI%2FUX+Designer;6+years+of+coding+experience;Previous+AI+researcher;Always+Learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
@@ -29,12 +29,12 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
 </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ananyadas2607?tab=followers">
+  <a href="https://github.com/ananyadd?tab=followers">
     <img alt="followers" title="Follow me on Github" 
-         src="https://img.shields.io/github/followers/ananyadas2607?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white&border_radius=15"/>
+         src="https://img.shields.io/github/followers/ananyadd?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white&border_radius=15"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ananyadas2607?tab=repositories">
+  <a href="https://github.com/ananyadd?tab=repositories">
     <img alt="repositories" title="My Repositories" 
          src="https://img.shields.io/badge/Repos-35+-purple?style=for-the-badge&logo=github&logoColor=white&border_radius=15"/>
   </a>
@@ -43,7 +43,7 @@
 <!--Github streak-->
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ananyadas2607&theme=dracula&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aananyadd&theme=dracula&count_private=true)
 
 ## 💻 Technical Skills & Expertise
 
@@ -110,11 +110,11 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyadas2607&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyadd&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadas2607&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadas2607&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyadd&theme=radical" alt="GitHub Profile Summary" />
 
  
 
@@ -124,7 +124,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ananyadas2607&theme=algolia&column=7&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ananyadd&theme=algolia&column=7&no-bg=true&no-frame=true" />
   </a>
 </p>
 

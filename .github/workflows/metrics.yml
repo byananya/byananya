@@ -1,6 +1,7 @@
 name: GitHub Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * 0" }]  # every Sunday at midnight
+  schedule: [{ cron: "0 0 * * 0" }]  # Every Sunday at midnight UTC
   push: { branches: ["main"] }
   workflow_dispatch:
 
@@ -11,6 +12,32 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+
+          # Core sections
           base: header, activity, community, repositories, metadata
+
+          # Cool Plugins
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_threshold: 2%
+
+          plugin_repositories: yes
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: intermediate
+          plugin_achievements_secrets: yes
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 12

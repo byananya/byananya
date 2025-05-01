@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          config_theme: maroongold
+          config_theme: calm
           config_gitrepository_contributions: public
 
           # Core sections

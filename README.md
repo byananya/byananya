@@ -6,3 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)
 
+![Metrics](https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg)

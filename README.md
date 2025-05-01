@@ -6,4 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)
 
+<h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
+
 ![Metrics](https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg)

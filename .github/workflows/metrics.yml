@@ -14,7 +14,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          
           config_theme: rose_pine
           # Core sections
           base: header, activity, community, repositories, metadata

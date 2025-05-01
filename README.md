@@ -8,4 +8,5 @@
 
 <h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
 
-![Metrics](https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?date=2025-05-01)
+![Metrics](https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4)
+

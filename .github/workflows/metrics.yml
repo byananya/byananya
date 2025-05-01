@@ -22,6 +22,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 2%
+          
+          plugin_topics: yes
+          plugin_topics_mode: starred  # Shows only topics from starred repos
+          plugin_topics_limit: 15      # You can adjust from 0–100
 
           plugin_repositories: yes
 

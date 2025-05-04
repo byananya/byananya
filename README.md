@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/stars-0-F4A9C8" alt="stars" />
   <img src="https://img.shields.io/badge/forks-0-A8C0FF" alt="forks" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ananyadd.ananyadd&color=EAD7D1" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/ananyadd?label=Followers&style=flat&color=ffa07a" />
 </p>
 
 </p>

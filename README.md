@@ -23,6 +23,7 @@
 
 <h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
 
-![Metrics](https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4)
+<img src="https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4" width="100%" />
+
 
 

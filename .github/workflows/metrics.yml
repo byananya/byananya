@@ -16,6 +16,7 @@ jobs:
           filename: github-metrics.svg
           config_theme: calm
           config_contributions: public
+          config_timezone: America/New_York
 
           # Core sections
           base: header, activity, community, repositories, metadata
@@ -33,5 +34,3 @@ jobs:
           plugin_isocalendar: yes
 
           plugin_activity: no
-
-    

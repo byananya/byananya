@@ -22,7 +22,7 @@
       Product Engineer<br>
       Prev. AI Researcher<br>
       Automation Engineer<br>
-      6 Years Experience in Automation, Dev & Systems<br>
+      6 Years Experience in Automation, Dev, Strategy & Systems<br>
       MS in CS — UCSC 🎓
       </small>
 </td>

@@ -17,6 +17,14 @@
  <img src="https://readme-typing-svg.demolab.com?lines=Founder+%26+CEO+;Product+Engineer;Prev+AI+Researcher;Automation+Expert;6+Years+Experience+in+Automation%2C+Dev+%26+Systems;Computer+Science+Professional;MS+in+CS+from+UCSC+%F0%9F%8E%93&width=650&height=45&font=Ubuntu&color=D8B7DD&pause=1000&size=20" />
 </p>
 
+<h2 style="font-family: 'Ubuntu', sans-serif;">🤝 Let’s Connect</h2>
+
+<p align="left">
+I’m looking for early users who share a passion for automation<br><br>
+📬 Reach me on <a href="https://www.linkedin.com/in/ananya-das-a3016059/" target="_blank">LinkedIn</a> 
+</p>
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)

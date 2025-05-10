@@ -14,17 +14,24 @@
 
 </p>
 
-<p align="left">
-<small>
-Founder & CEO — Asteris<br>
-––––––––––––––––––––<br>
-Product Engineer<br>
-Prev. AI Researcher<br>
-Automation Engineer<br>
-6+ Years Experience in Automation, Dev & Systems<br>
-MS in CS — UCSC 🎓
-</small>
-</p>
+<table border="0">
+  <tr>
+    <td align="left">
+      <small>
+      Founder & CEO — Asteris<br>
+      ––––––––––––––––––––<br>
+      Product Engineer<br>
+      Prev. AI Researcher<br>
+      Automation Engineer<br>
+      6+ Years Experience in Automation, Dev & Systems<br>
+      MS in CS — UCSC 🎓
+      </small>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 

@@ -14,24 +14,28 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://readme-typing-svg.demolab.com?lines=Founder+%26+CEO+;Product+Engineer;Prev+AI+Researcher;Automation+Expert;6+Years+Experience+in+Automation%2C+Dev+%26+Systems;Computer+Science+Professional;MS+in+CS+from+UCSC+%F0%9F%8E%93&width=650&height=45&font=Ubuntu&color=D8B7DD&pause=1000&size=20" />
-</p>
-
-<h2 style="font-family: 'Ubuntu', sans-serif;">🤝 Let’s Connect</h2>
-
 <p align="left">
-I’m looking for early users who share a passion for automation<br><br>
-📬 Reach me on <a href="https://www.linkedin.com/in/ananya-das-a3016059/" target="_blank">LinkedIn</a> 
+<small>
+<ul>
+<li><span style="color:#9E9E9E">Founder & CEO at Asteris</span></li>
+<li><span style="color:#9E9E9E">Product Engineer</span></li>
+<li><span style="color:#9E9E9E">Prev. AI Researcher</span></li>
+<li><span style="color:#9E9E9E">Automation Engineer</span></li>
+<li><span style="color:#9E9E9E">6+ Years Experience in Automation, Dev & Systems</span></li>
+<li><span style="color:#9E9E9E">MS in CS from UCSC 🎓</span></li>
+</ul>
+</small>
 </p>
 
-
-
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)
 
 <h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
 
 <img src="https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4" width="100%" />
+
+
 
 
 

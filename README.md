@@ -17,13 +17,12 @@
     <!-- Left side: Founder Bio -->
     <td align="left" valign="top" width="50%">
       <small>
-      Founder & CEO — Asteris<br>
-      ––––––––––––––––––––<br>
-      Product Engineer<br>
-      Prev. AI Researcher<br>
-      Automation Engineer<br>
-      6 Years experience in Automation, Dev, Strategy & Systems<br>
-      MS in CS — UCSC 🎓
+      Founder & CEO, Asteris  
+      ––––––––––––––––––––  
+      Engineer | Systems & Strategy Thinker  
+      Former AI Researcher  
+      6 years in Automation, DevOps, and Scalable Systems  
+      MS, Computer Science — UCSC 🎓
       </small>
 </td>
 

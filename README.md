@@ -8,12 +8,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python Logo" />
 </p>
 
-<small>
-<span style="color:#4E4E4E">I’m Ananya — founder of Asteris. I’m obsessed with building intelligent automation that eliminates repetitive work and creates leverage at scale.</span>
-</small>
-
-
-
 </p>
 
 </p>

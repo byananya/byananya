@@ -14,22 +14,19 @@
 
 <table border="0" width="100%">
   <tr>
-    <!-- Left side: Founder Bio -->
     <td align="left" valign="top" width="50%">
       <small>
-      Founder & CEO, Asteris  
-      ––––––––––––––––––––  
-      Engineer | Systems & Strategy Thinker  
-      Former AI Researcher  
-      6 years in Automation, DevOps, and Scalable Systems  
-      MS, Computer Science — UCSC 🎓
+      <span style="color:#4E4E4E">Founder & CEO, Asteris</span><br>
+      <span style="color:#4E4E4E">––––––––––––––––––––</span><br>
+      <span style="color:#4E4E4E">Product Engineer</span><br>
+      <span style="color:#4E4E4E">Former AI Researcher</span><br>
+      <span style="color:#4E4E4E">6 years of Automation, DevOps, Scalable Systems</span><br>
+      <span style="color:#4E4E4E">MS, Computer Science — UCSC 🎓</span>
       </small>
-</td>
-
-
-    
+    </td>
   </tr>
 </table>
+
 
 
 </small>

@@ -17,12 +17,12 @@
 <p align="left">
 <small>
 <ul>
-<li><span style="color:#9E9E9E">Founder & CEO at Asteris</span></li>
-<li><span style="color:#9E9E9E">Product Engineer</span></li>
-<li><span style="color:#9E9E9E">Prev. AI Researcher</span></li>
-<li><span style="color:#9E9E9E">Automation Engineer</span></li>
-<li><span style="color:#9E9E9E">6+ Years Experience in Automation, Dev & Systems</span></li>
-<li><span style="color:#9E9E9E">MS in CS from UCSC 🎓</span></li>
+<li><span style="color:#6C63FF">Founder & CEO at Asteris</span></li>
+<li><span style="color:#6C63FF">Product Engineer</span></li>
+<li><span style="color:#6C63FF">Prev. AI Researcher</span></li>
+<li><span style="color:#6C63FF">Automation Engineer</span></li>
+<li><span style="color:#6C63FF">6+ Years Experience in Automation, Dev & Systems</span></li>
+<li><span style="color:#6C63FF">MS in CS from UCSC 🎓</span></li>
 </ul>
 </small>
 </p>

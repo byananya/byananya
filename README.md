@@ -18,9 +18,10 @@
 
 </p>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td align="left">
+    <!-- Left side: Founder Bio -->
+    <td align="left" valign="top" width="50%">
       <small>
       Founder & CEO — Asteris<br>
       ––––––––––––––––––––<br>
@@ -31,10 +32,10 @@
       MS in CS — UCSC 🎓
       </small>
     </td>
+
+    
   </tr>
 </table>
-
-
 
 
 </small>

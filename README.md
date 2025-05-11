@@ -20,7 +20,7 @@
       <span style="color:#4E4E4E">––––––––––––––––––––</span><br>
       <span style="color:#4E4E4E">Product Engineer</span><br>
       <span style="color:#4E4E4E">Former AI Researcher</span><br>
-      <span style="color:#4E4E4E">6 years of Automation, DevOps, Scalable Systems</span><br>
+      <span style="color:#4E4E4E">6 years of Automation, DevOps, Software Dev, Scalable Systems</span><br>
       <span style="color:#4E4E4E">MS, Computer Science — UCSC 🎓</span>
       </small>
     </td>

@@ -1,7 +1,7 @@
 ### Ananya D.
 
 ---
-Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>
+Technical Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>
 Product Engineer<br>
 Former AI Researcher @UCSC <br>
 Ex-Shell Software Automation Engineer <br>

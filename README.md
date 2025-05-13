@@ -27,7 +27,12 @@
   </tr>
 </table>
 
+## Areas of Expertise  
 
+ 🤖 AI Systems & Automation  
+ 🔒 AI Safety & Security  
+ 💻 Operating System  
+ 🎯 Prompt Engineering
 
 </small>
 </p>

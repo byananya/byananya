@@ -45,8 +45,8 @@
 ## Let's Connect
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
-🔗 [GitHub]([https://github.com/](https://github.com/ananyadd))  
-💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ananya-das-a3016059/))
+🔗 [GitHub]([https://github.com/ananyadd])  
+💼 [LinkedIn]([https://www.linkedin.com/in/ananya-das-a3016059/])
 
 
 

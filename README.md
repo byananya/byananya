@@ -1,4 +1,9 @@
+
 ### Ananya D.
+
+![Status](https://img.shields.io/badge/status-updating-A8D5BA?style=plastic&logo=github&logoColor=white&labelColor=4A4A4A)
+![Python](https://img.shields.io/badge/python-3.12-CE93D8?style=plastic&logo=python&logoColor=white&labelColor=4A4A4A)
+![Contributors](https://img.shields.io/badge/contributors-3-81D4FA?style=plastic&logo=github&logoColor=white&labelColor=4A4A4)
 
 ---
 Technical Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>

@@ -18,16 +18,10 @@ MS, Computer Science — UCSC 🎓
  🎯 Prompt Engineering
  
 ---
-</small>
-</p>
+
 
 ## Let’s Connect  
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
-
-
-
-
-

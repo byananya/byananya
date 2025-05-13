@@ -42,11 +42,14 @@
 <img src="https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4" width="60%" />
 
 
-## Let's Connect
+## Let’s Connect  
+
+Building something interesting? I’d love to hear from you.
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
-🔗 [GitHub]([https://github.com/ananyadd])  
-💼 [LinkedIn]([https://www.linkedin.com/in/ananya-das-a3016059/])
+🔗 [GitHub](https://github.com/ananyadd)  
+💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
+
 
 
 

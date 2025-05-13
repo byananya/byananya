@@ -23,11 +23,11 @@ MS, Computer Science — UCSC 🎓
 
 ## Areas of Expertise  
 
-- 🤖 AI Systems & Automation  
-- 🔒 AI Safety & Security  
-- 💻 Scalable Systems  
-- 🎯 Prompt Engineering
-
+ 🤖 AI Systems & Automation  
+ 🔒 AI Safety & Security  
+ 💻 Scalable Systems  
+ 🎯 Prompt Engineering
+ 
 ---
 </small>
 </p>

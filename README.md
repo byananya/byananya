@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/forks-0-A8C0FF" alt="forks" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ananyadd.ananyadd&color=EAD7D1" alt="visitors" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python Logo" />
 </p>
 
 </p>

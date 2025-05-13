@@ -37,8 +37,6 @@ MS, Computer Science — UCSC 🎓
 
 ## Let’s Connect  
 
-Building something interesting? I’d love to hear from you.
-
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)

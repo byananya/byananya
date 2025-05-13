@@ -12,28 +12,23 @@
 
 </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <small>
-      <span style="color:#4E4E4E">Founder & CEO, Asteris</span><br>
-      <span style="color:#4E4E4E">––––––––––––––––––––</span><br>
-      <span style="color:#4E4E4E">Product Engineer</span><br>
-      <span style="color:#4E4E4E">Former AI Researcher</span><br>
-      <span style="color:#4E4E4E">6 years of Automation, DevOps, Software Dev, Scalable Systems</span><br>
-      <span style="color:#4E4E4E">MS, Computer Science — UCSC 🎓</span>
-      </small>
-    </td>
-  </tr>
-</table>
+---
+Founder & CEO, Asteris<br>
+Product Engineer<br>
+Former AI Researcher<br>
+6 years of Automation, DevOps, Software Dev, Scalable Systems<br>
+MS, Computer Science — UCSC 🎓
+
+
 
 ## Areas of Expertise  
 
- 🤖 AI Systems & Automation  
- 🔒 AI Safety & Security  
- 💻 System Design
- 🎯 Prompt Engineering
+- 🤖 AI Systems & Automation  
+- 🔒 AI Safety & Security  
+- 💻 Scalable Systems  
+- 🎯 Prompt Engineering
 
+---
 </small>
 </p>
 

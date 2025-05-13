@@ -32,11 +32,6 @@ MS, Computer Science — UCSC 🎓
 </small>
 </p>
 
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)
-
-
 ## Let’s Connect  
 
 Building something interesting? I’d love to hear from you.

@@ -16,7 +16,7 @@
 Founder & CEO, Asteris<br>
 Product Engineer<br>
 Former AI Researcher<br>
-6 years of Automation, DevOps, Software Dev, Scalable Systems<br>
+6 years of Automation, DevOps, Software Dev<br>
 MS, Computer Science — UCSC 🎓
 
 

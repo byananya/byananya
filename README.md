@@ -36,18 +36,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose)](https://git.io/streak-stats)
 
+
+<h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
+
+<img src="https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4" width="60%" />
+
+
 ## Let's Connect
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub]([https://github.com/](https://github.com/ananyadd))  
 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ananya-das-a3016059/))
-
-
-
-<h2 style="font-family: 'Ubuntu', sans-serif;">📊 GitHub Metrics</h2>
-
-<img src="https://raw.githubusercontent.com/ananyadd/ananyadd/main/github-metrics.svg?v=4" width="100%" />
-
 
 
 

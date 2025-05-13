@@ -18,8 +18,6 @@ MS, Computer Science — UCSC 🎓
  🎯 Prompt Engineering
  
 ---
-</small>
-</p>
 
 ## Let’s Connect  
 

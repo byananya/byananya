@@ -31,7 +31,7 @@
 
  🤖 AI Systems & Automation  
  🔒 AI Safety & Security  
- 💻 Operating System  
+ 💻 System Design
  🎯 Prompt Engineering
 
 </small>

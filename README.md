@@ -1,6 +1,6 @@
 # Ananya D.
- 
- ---
+
+---
 Founder & CEO, Asteris<br>
 Product Engineer<br>
 Former AI Researcher @UCSC <br>

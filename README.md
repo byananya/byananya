@@ -13,7 +13,6 @@ Ex-Shell Software Automation Engineer <br>
 MS, Computer Science — UCSC 🎓
 
 
-
 ## Areas of Expertise  
 
  🤖 AI Systems & Automation  
@@ -23,17 +22,17 @@ MS, Computer Science — UCSC 🎓
  
 ---
 
+<div align="left" style="background-color:#F9F5F6; border: 2px solid #E4B7B2; border-radius:12px; padding:15px; display:inline-block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyadd&theme=rose" alt="GitHub contribution streak" />
+</div>
+
+---
+
 ## Let’s Connect  
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
-<!--
-## Currently Building
 
-<div align="left" style="background-color:#F9F5F6; border: 2px solid #E4B7B2; border-radius:12px; padding:15px; display:inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyadd&theme=rose" alt="GitHub contribution streak" />
-</div>
--->
 

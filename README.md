@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-CE93D8?style=plastic&logo=python&logoColor=white&labelColor=4A4A4A)
 
 ---
-Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>
+Technical Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>
 Product Engineer<br>
 Former AI Researcher @UCSC <br>
 Ex-Shell Software Automation Engineer <br>

@@ -5,7 +5,7 @@
 
 ---
 
-- Technical Founder & CEO, Asteris (Automate anywhere, without code)
+- Technical Founder & CEO, Asteris (Automate anywhere, no code)
 - Systems + Automation Engineer | Ex-Shell  
 - Former AI Researcher, UCSC  
 - 6 years designing automation, DevOps, and software Dev  

@@ -21,14 +21,13 @@ MS, Computer Science — UCSC 🎓
  
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ananyadd)
-
-
 ## Let’s Connect  
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
---- 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ananyadd)
 

@@ -7,7 +7,7 @@
 
 - Systems + Automation Engineer | Ex-Shell  
 - Former AI Researcher, UCSC  
-- 6+ years designing automation, DevOps, and software infrastructure  
+- 6 years designing automation, DevOps, and software Dev  
 - MS, Computer Science — UCSC
 
 ---

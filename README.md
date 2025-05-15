@@ -1,4 +1,3 @@
-
 ### Ananya D.
 
 ![Status](https://img.shields.io/badge/status-updating-A8D5BA?style=plastic&logo=github&logoColor=white&labelColor=4A4A4A)
@@ -21,6 +20,9 @@ MS, Computer Science — UCSC 🎓
  🎯 Prompt Engineering
  
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ananyadd&theme=rose&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ananyadd)
+
 
 ## Let’s Connect  
 

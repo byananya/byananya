@@ -4,20 +4,20 @@
 ![Python](https://img.shields.io/badge/python-3.12-CE93D8?style=plastic&logo=python&logoColor=white&labelColor=4A4A4A)
 
 ---
-Technical Founder & CEO, Asteris ( Automate any workflow, on any website, without code ) <br>
-Product Engineer<br>
-Former AI Researcher @UCSC <br>
-Ex-Shell Software Automation Engineer <br>
-6 years of Automation, DevOps, Software Dev<br>
-MS, Computer Science — UCSC 🎓
+
+- Systems + Automation Engineer | Ex-Shell  
+- Former AI Researcher, UCSC  
+- 6+ years designing automation, DevOps, and software infrastructure  
+- MS, Computer Science — UCSC
 
 
 ## Areas of Expertise  
 
- 🤖 AI Systems & Automation  
- 🔒 AI Safety & Security  
- 💻 Scalable Systems  
- 🎯 Prompt Engineering
+✔️ AI Systems & Automation  
+✔️ AI Safety & Security  
+✔️ Scalable Systems  
+✔️ Prompt Engineering
+
  
 ---
 

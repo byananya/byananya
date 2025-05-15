@@ -15,7 +15,7 @@
 
   ## Areas of Expertise  
 
-  ✔️ AI Systems & Automation  
+  ✔️ Applied AI Systems & Automation  
   ✔️ AI Safety & Security  
   ✔️ Scalable Systems  
   ✔️ Prompt Engineering

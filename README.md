@@ -4,7 +4,7 @@
 
 ---
 
-- Technical Founder & CEO, Asteris
+- Technical Founder & CEO
 - Systems + Automation Engineer | Ex-Shell  
 - Former AI Researcher, UCSC  
 - 6 years designing automation, DevOps, and software infrastructure  

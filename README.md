@@ -16,7 +16,6 @@
   ✔️ Applied AI Systems & Automation  
   ✔️ AI Safety & Security  
   ✔️ Scalable Systems  
-  ✔️ Prompt Engineering
 
  
 ---

@@ -1,7 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-F7C1D9?style=flat&logo=python&logoColor=white)
 
-
-
 ---                        
 
 - technical founder & ceo @ Asteris AI (building meaningful automation at scale)
@@ -27,4 +25,4 @@
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
-## github trophies and stars
+## github trophies and stars below 

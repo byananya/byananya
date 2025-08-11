@@ -14,9 +14,9 @@
 
   ## Areas of Expertise  
 
-  ✔️ Applied AI Systems & Automation  
-  ✔️ AI Safety & Security  
-  ✔️ Scalable Systems  
+  ✔️ applied AI systems & automation  
+  ✔️ AI safety & security  
+  ✔️ scalable systems  
 
  
 ---

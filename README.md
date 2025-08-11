@@ -2,19 +2,19 @@
 
 ---                        
 
-- technical founder & ceo @ Asteris AI (building meaningful automation at scale)
-- systems and automation engineer | Ex-Shell India 
-- former AI researcher @ucsc
+- Technical founder & ceo @ Asteris AI (building meaningful automation at scale)
+- Systems & automation engineer | Ex-Shell India 
+- Former AI researcher @ucsc
 - 6 years of designing automation, devOps, and software infrastructure  
 - ms cs @ucsc 
 
 ---
 
-  ## areas of expertise  
+  ## Areas of Expertise  
 
-  ✔️ applied AI systems & automation  
+  ✔️ Applied AI systems & automation  
   ✔️ AI safety & security  
-  ✔️ scalable systems  
+  ✔️ Scalable systems  
 
  
 ---

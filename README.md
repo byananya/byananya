@@ -12,7 +12,7 @@
 
 ---
 
-  ## Areas of Expertise  
+  ## areas of expertise  
 
   ✔️ applied AI systems & automation  
   ✔️ AI safety & security  
@@ -21,10 +21,10 @@
  
 ---
 
-## Let’s Connect  
+## let’s connect  
 
 📧 [ananyad@asterisai.org](mailto:ananyad@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
-## GitHub Trophies and Stars
+## gitHub trophies and stars

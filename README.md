@@ -27,4 +27,4 @@
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
-## gitHub trophies and stars
+## github trophies and stars

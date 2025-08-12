@@ -2,7 +2,7 @@
 
 ---                        
 
-- technical founder & ceo @ Asteris AI (building meaningful automation ?! )
+- technical founder & ceo @ Asteris AI (building meaningful automation )
 - systems & automation engineer | Ex-Shell India 
 - former AI researcher @ucsc
 - 6 years of designing automation, devOps, and software infrastructure  

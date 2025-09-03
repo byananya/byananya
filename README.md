@@ -20,7 +20,7 @@
 
 ## let’s connect  
 
-📧 [founder@asterisai.org](mailto:founder@asterisai.org)  
+📧 [ananyad@asterisai.org](mailto:founder@asterisai.org)  
 🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 

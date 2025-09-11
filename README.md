@@ -10,7 +10,8 @@
 
 ---
 
-![Areas of Expertise](https://img.shields.io/badge/_Areas_of_Expertise-F7C1D9?style=flat&labelColor=8B5E83&logoColor=FDF5E6)
+![Areas of Expertise](https://img.shields.io/badge/Areas_of_Expertise-F7C1D9?style=flat&labelColor=8B5E83&logo=gear&logoColor=FDF5E6)
+
 
   ✔️ Applied AI systems & automation  
   ✔️ AI safety & security  

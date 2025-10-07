@@ -6,7 +6,6 @@
 
 ---
 
-- technical founder and ceo @stealth
 - Systems & automation engineer | Ex-Shell India 
 - Former AI researcher @ ucsc
 - 6 years of designing automation, devOps, and software infrastructure  

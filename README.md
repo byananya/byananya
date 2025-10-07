@@ -25,8 +25,6 @@
 
 [![Lets Connect](https://img.shields.io/badge/Let’s_Connect-F7C1D9?style=flat&logo=googlechrome&logoColor=FDF5E6&labelColor=8B5E83)](mailto:founder@asterisai.org)
 
-📧 [ananyad@asterisai.org](mailto:founder@asterisai.org)  
-🔗 [GitHub](https://github.com/ananyadd)  
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
 ## ![GitHub Trophies and Stars](https://img.shields.io/badge/GitHub_Trophies_&_Stars-F7C1D9?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6)

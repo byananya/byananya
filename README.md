@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/_Python-v3.12-F7C1D9?style=flat&logo=python&logoColor=FDF5E6&labelColor=8B5E83&logoSize=40)  ![Stars](https://img.shields.io/badge/Stars-2-FFF9C4?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6) ![Forks](https://img.shields.io/badge/Forks-0-C8E6C9?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6) 
+![Python](https://img.shields.io/badge/_Python-v3.12-F7C1D9?style=flat&logo=python&logoColor=FDF5E6&labelColor=8B5E83&logoSize=40) ![Forks](https://img.shields.io/badge/Forks-0-C8E6C9?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6) 
 ![Issues](https://img.shields.io/badge/Issues-0-BBDEFB?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6) ![Contributors](https://img.shields.io/badge/Contributors-2-F8BBD0?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6)
 
 
@@ -26,5 +26,4 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
 
-## ![GitHub Trophies and Stars](https://img.shields.io/badge/GitHub_Trophies_&_Stars-F7C1D9?style=flat&labelColor=8B5E83&logo=github&logoColor=FDF5E6)
 

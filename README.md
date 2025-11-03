@@ -23,7 +23,9 @@
 
 [![Lets Connect](https://img.shields.io/badge/Let’s_Connect-F7C1D9?style=flat&logo=googlechrome&logoColor=FDF5E6&labelColor=8B5E83)](mailto:founder@asterisai.org)
 
-💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)
-✉️ founderelyn@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
+📧 founderelyn@gmail.com
+
 
 

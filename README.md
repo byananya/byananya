@@ -25,7 +25,6 @@
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
-📧 founderelyn@gmail.com
 
 
 

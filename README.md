@@ -1,7 +1,5 @@
 ![Python](https://img.shields.io/badge/_Python-v3.12-F7C1D9?style=flat&logo=python&logoColor=FDF5E6&labelColor=8B5E83&logoSize=40)
 
-
-
 ---
 
 - building, pulse (in stealth)

@@ -2,7 +2,7 @@
 
 ---
 
-- building, pulse 🫀 (in stealth)
+- building, pulse (in stealth)
 - Systems & automation engineer | Ex-Shell
 - Former AI researcher @ ucsc
 - 6 years of designing automation, devOps, and software infrastructure 

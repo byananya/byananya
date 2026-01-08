@@ -27,5 +27,11 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
 
+---
+
+![Awards & Achievements](https://img.shields.io/badge/Awards%20%26%20Achievements-cdb6c8?style=flat)
+
+
+
 
 

@@ -26,11 +26,3 @@
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
-
----
-
-![contribution graph](https://img.shields.io/badge/github_contribution_graph-activity-10b981?style=flat&logo=github&logoColor=ffffff&labelColor=8B5E83)
-
-
-
-

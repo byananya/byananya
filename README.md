@@ -33,6 +33,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=byAnanya&theme=github-compact&hide_border=true" />
 
+---
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=byAnanya&show_icons=true&theme=tokyonight&hide_border=true)
 
 

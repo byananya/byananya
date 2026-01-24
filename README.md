@@ -3,6 +3,7 @@
 ![contributors](https://img.shields.io/badge/contributors-1-2563eb?style=flat&labelColor=8B5E83)
 ![stars](https://img.shields.io/badge/stars-0-gold)
 
+
 ---
 
 - building, pulse (in stealth)
@@ -10,15 +11,14 @@
 - Former AI researcher @ ucsc
 - 6 years of designing automation, frameworks, devOps, and software infrastructure 
 
----
 
+---
 ![Areas of Expertise](https://img.shields.io/badge/Areas_of_Expertise-F7C1D9?style=flat&labelColor=8B5E83&logo=gear&logoColor=FDF5E6)
 
 
   ✔️ Applied AI systems & automation  
   ✔️ AI safety & security  
   ✔️ Scalable systems  
-
  
 ---
 
@@ -26,3 +26,11 @@
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
+
+---
+
+### 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byAnanya&theme=github-compact&hide_border=true" />
+
+

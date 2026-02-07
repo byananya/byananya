@@ -27,10 +27,3 @@
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
-
-## GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/byananya?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&base.header=0&base.activity=0&base.repositories=0&config.timezone=America%2FLos_Angeles)
-
-
-

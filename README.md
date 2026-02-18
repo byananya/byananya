@@ -30,5 +30,4 @@
 
 ---
 
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=byananya&theme=tokyonight&hide_border=true&border_radius=10)

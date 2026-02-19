@@ -31,3 +31,6 @@
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=byananya&theme=tokyonight&hide_border=true&border_radius=10)
+
+---
+![3D Contributions](https://github.com/byAnanya/byAnanya/blob/output/github-contribution-grid-snake.svg)

@@ -34,3 +34,5 @@
 
 ---
 ![3D Contributions](https://github.com/byAnanya/byAnanya/blob/output/github-contribution-grid-snake.svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=160&section=header"/>

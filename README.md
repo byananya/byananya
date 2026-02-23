@@ -4,8 +4,8 @@
 ![stars](https://img.shields.io/badge/stars-0-gold)
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
----
 
 - building, pulse AI (in stealth)
 - Systems Engineer & automation engineer & designer • Ex-Shell

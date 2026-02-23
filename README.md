@@ -28,11 +28,3 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=byananya&theme=tokyonight&hide_border=true&border_radius=10)
-
----
-![3D Contributions](https://github.com/byAnanya/byAnanya/blob/output/github-contribution-grid-snake.svg)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=160&section=header"/>

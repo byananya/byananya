@@ -28,3 +28,5 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=byananya&theme=transparent&ring=F7D774&fire=7FE3C5&currStreakLabel=F7D774&sideLabels=9BE8D8&dates=E6EDF3&stroke=0000&border=0000)

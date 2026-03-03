@@ -10,7 +10,7 @@
 
 
 - building, pulse AI (in stealth)
-- Systems Engineer & automation engineer & designer • Ex-Shell
+- Systems Engineer & automation engineer • Ex-Shell
 - Former AI researcher @ ucsc
 - 6 years of designing automation, frameworks, devOps, and software infrastructure 
 

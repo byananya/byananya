@@ -36,5 +36,6 @@
 
 
 
+[![GitHub Contributions Graph](https://img.shields.io/badge/GitHub_Contribution_Graph-F7C1D9?style=flat&logo=googlechrome&logoColor=FDF5E6&labelColor=8B5E83)](mailto:founder@asterisai.org)
 
 [![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byAnanya&bg_color=0d1117&color=f5f5f5&line=50fa7b&point=bd93f9&area=true&hide_border=true)](https://github.com/byAnanya)

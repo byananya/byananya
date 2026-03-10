@@ -34,3 +34,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/ananya-das-a3016059/)  
 
+
+
+
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byAnanya&bg_color=0d1117&color=f5f5f5&line=50fa7b&point=bd93f9&area=true&hide_border=true)](https://github.com/byAnanya)

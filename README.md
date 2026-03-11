@@ -40,4 +40,4 @@
 [![GitHub Contributions Graph](https://img.shields.io/badge/GitHub_Contribution_Graph-F7C1D9?style=flat&logo=googlechrome&logoColor=FDF5E6&labelColor=8B5E83)](mailto:founder@asterisai.org)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byAnanya&theme=github)
+![Snake animation](https://github.com/byAnanya/byAnanya/blob/output/github-contribution-grid-snake-dark.svg)

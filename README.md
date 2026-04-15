@@ -8,7 +8,7 @@
 </p>
 
 
-- Systems Engineer & automation engineer • Ex-Shell
+- Systems Engineer & Automation engineer • Ex-Shell
 - Former AI researcher @ ucsc
 - 6 years of designing automation, frameworks, devOps, and software infrastructure 
 

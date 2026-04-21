@@ -9,8 +9,7 @@
 
 
 - Systems Engineer & Automation engineer
-- Former AI researcher @ ucsc
-- Ex-Shell
+- Former AI researcher @ ucsc @Shell
 - 6 years of designing automation, frameworks, devOps, and software infrastructure 
 
 

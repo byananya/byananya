@@ -8,7 +8,7 @@
 </p>
 
 
-- Systems Architect & Automation engineer
+- Systems Engineer & Automation engineer
 - Former AI researcher @ ucsc
 - Automation @ Shell
 - 6 years of designing automation, frameworks, devOps, and software infrastructure 

@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/_Python-v3.12-D97706?style=flat&logo=python&logoColor=FFF7ED&labelColor=92400E&logoSize=40)
 ![status](https://img.shields.io/badge/status-updating-brightgreen?labelColor=ec4899)
 ![Stars](https://img.shields.io/badge/stars-10-F7C1D9?style=flat&logo=github&logoColor=FDF5E6&labelColor=8B5E83)
-![Contributors](https://img.shields.io/badge/Contributors-1-F7C1D9?style=flat&logoColor=FDF5E6&labelColor=8B5E83)
 
 
 <p align="right">

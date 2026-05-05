@@ -5,7 +5,9 @@
 ![Visitors](https://img.shields.io/badge/visitors-1.2k+-BBF7D0?style=flat&logo=google-analytics&logoColor=ECFDF5&labelColor=15803D)
 
 <p align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <span style="display:inline-block; background:#f8fafc; padding:10px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  </span>
 </p>
 
 

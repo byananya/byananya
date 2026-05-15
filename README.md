@@ -13,4 +13,5 @@
 
 `diffusion models` &nbsp; `video generation` &nbsp; `identity preservation` &nbsp;
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D4537E&height=80&section=footer"/>

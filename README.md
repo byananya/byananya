@@ -8,6 +8,4 @@
   />
 </p>
 
-<p align="center">
-  <i>builds pretty things and occasionally cries over merge conflicts 🌸</i>
-</p>
+

@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=56&pause=1800&color=8B6F47&center=true&vCenter=true&width=3400&lines=Founder+%26+CEO+%40+PulseAI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+ML+Systems+Researcher+%C2%B7+AI+Automation+%26+Infrastructure+Engineer;MS+in+Computer+Science+%C2%B7+UC+Santa+Cruz+%C2%B7+Previously+at+Shell" 
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=56&pause=1800&color=8B6F47&center=true&vCenter=true&width=3400&lines=Founder+%26+CEO+%40+PulseAI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+ML+Systems+Researcher+%C2%B7+AI+Automation+%26+Infrastructure+Engineer;MS+in+Computer+Science+%C2%B7+UC+Santa+Cruz+%C2%B7+Previously+at+Shell+%C2%B7+Infosys" 
     alt="Elegant Typing SVG" 
   />
 </p>

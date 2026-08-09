@@ -14,3 +14,11 @@
     alt="Elegant Typing SVG"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/byananya/byananya/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>

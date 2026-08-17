@@ -3,8 +3,8 @@
 
 <p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-       width="120"
-       height="120"
+       width="150"
+       height="150"
        alt="Python" />
 </p>
 

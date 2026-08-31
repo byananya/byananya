@@ -54,6 +54,13 @@ alt="Header banner"
 </p>
 
 
+<p align="right">
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png"
+    width="110"
+    alt="Pikachu"
+  />
+</p>
 
 <!-- Static Pikachu -->
 

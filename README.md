@@ -22,9 +22,14 @@ alt="Header banner"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="82" height="82" alt="Docker" title="Docker" />
 </p>
 
+<br />
+<br />
+
+<!-- Animated introduction -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=70&pause=1800&color=8B6F47&center=true&vCenter=true&width=3400&height=120&lines=CEO+%26+CTO+%26+Founder+%40+Pulse+AI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+Systems+Researcher+%C2%B7+Computer+Vision+%C2%B7+Multimodal+AI+%C2%B7+Distributed+Systems;BTech+in+Computer+Science+Engineering+%C2%B7+MS+in+Computer+Science+%C2%B7+UC+Santa+Cruz+%C2%B7+Previously+at+Shell+%C2%B7+Infosys+%C2%B7+others"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=70&pause=1800&color=8B6F47&center=true&vCenter=true&width=3400&height=120&lines=CEO+%26+CTO+%26+Founder+%40+Pulse+AI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+Systems+Researcher;BTech+Computer+Science+and+Engineering+%C2%B7+MS+Computer+Science+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
     alt="Ananya Das — Founder and AI Systems Researcher"
   />
 </p>
@@ -38,6 +43,8 @@ alt="Header banner"
   autonomous agents, and distributed execution.
 </p> -->
 
+<!-- GitHub contribution snake -->
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/byananya/byananya/output/github-contribution-grid-snake-dark.svg"
@@ -46,7 +53,16 @@ alt="Header banner"
   />
 </p>
 
-<!-- Footer banner -->
+<!-- Static Pikachu -->
+
+<!-- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+    width="145"
+    alt="Pikachu"
+    title="Pikachu"
+  />
+</p> -->
 
 <!-- Footer banner -->
 

@@ -23,10 +23,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p ../dist
           npm install
-          npx tsx src/cli.ts --user byananya --mode ambient --out ../dist/ambient.svg
-          npx tsx src/cli.ts --user byananya --mode ambient --dark --out ../dist/ambient-dark.svg
+          npx tsx src/cli.ts --user byananya --mode ambient
+          npx tsx src/cli.ts --user byananya --mode ambient --dark
+
+      - name: Move SVGs into dist
+        run: |
+          mkdir -p dist
+          cp gallery/docs/ambient.svg dist/ambient.svg
+          cp gallery/docs/ambient-dark.svg dist/ambient-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

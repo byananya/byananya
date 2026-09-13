@@ -1,10 +1,13 @@
 name: Generate Ambient Gallery
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,7 +20,10 @@ jobs:
 
       - name: Install and build
         working-directory: gallery
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          mkdir -p ../dist
           npm install
           npx tsx src/cli.ts --user byananya --mode ambient --out ../dist/ambient.svg
           npx tsx src/cli.ts --user byananya --mode ambient --dark --out ../dist/ambient-dark.svg

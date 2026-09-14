@@ -67,7 +67,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=70&pause=1800&color=8B6F47&center=true&vCenter=true&width=3400&height=120&lines=CEO+%26+CTO+%26+Founder+%40+Pulse+AI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+Systems+Researcher;BTech+Computer+Science+and+Engineering+%C2%B7+MS+Computer+Science+Engineering+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=70&pause=1800&color=B79B72&center=true&vCenter=true&width=3400&height=120&lines=CEO+%26+CTO+%26+Founder+%40+Pulse+AI+%C2%B7+Building+identity+video+infrastructure+for+AI-native+GTM;AI+Systems+Researcher;BTech+Computer+Science+and+Engineering+%C2%B7+MS+Computer+Science+Engineering+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
     alt="Ananya Das — Founder and AI Systems Researcher"
   />
 </p>

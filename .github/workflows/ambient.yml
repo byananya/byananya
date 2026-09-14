@@ -12,14 +12,40 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: crosscore/contribution-gallery@main
-        with:
-          github_user_name: byananya
-          outputs: |
-            dist/ambient.svg?mode=ambient
-            dist/ambient-dark.svg?palette=dark&mode=ambient
+      - name: Checkout this repo
+        uses: actions/checkout@v4
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Checkout contribution-gallery source
+        uses: actions/checkout@v4
+        with:
+          repository: crosscore/contribution-gallery
+          path: gallery
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build the action from source
+        working-directory: gallery
+        run: |
+          npm install
+          npm run build
+
+      - name: Run the built action
+        working-directory: gallery
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_USER_NAME: byananya
+          INPUT_OUTPUTS: |
+            ../dist/ambient.svg?mode=ambient
+            ../dist/ambient-dark.svg?palette=dark&mode=ambient
+        run: |
+          mkdir -p ../dist
+          node dist/index.js
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

@@ -21,6 +21,28 @@ jobs:
           repository: crosscore/contribution-gallery
           path: gallery
 
+      - name: Remove gallery header text and border
+        working-directory: gallery
+        run: |
+          python3 - <<'EOF'
+          import pathlib
+
+          ambient = pathlib.Path("src/renderer/ambient.ts")
+          text = ambient.read_text()
+          text = text.replace(
+              '  <text class="eyebrow" x="24" y="29">CONTRIBUTION GALLERY</text>\n', ''
+          )
+          text = text.replace(
+              '  <text class="heading" x="23" y="60" style="font-size:27px;letter-spacing:-.8px;fill:url(#spectrum)">A year, in motion.</text>\n', ''
+          )
+          ambient.write_text(text)
+
+          theme = pathlib.Path("src/renderer/theme.ts")
+          ttext = theme.read_text()
+          ttext = ttext.replace('stroke="${theme.border}"', 'stroke="none"')
+          theme.write_text(ttext)
+          EOF
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:

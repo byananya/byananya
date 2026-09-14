@@ -24,6 +24,9 @@ alt="Header banner"
 
 <br />
 <br />
+<br />
+<br />
+
 
 <!-- Animated introduction -->
 
@@ -33,6 +36,11 @@ alt="Header banner"
     alt="Ananya Das — Founder and AI Systems Researcher"
   />
 </p>
+
+<br />
+<br />
+<br />
+<br />
 
 <!-- <p align="center">
   <strong>AI Systems Researcher · Distributed Systems Engineer · Founder of Pulse AI</strong>
@@ -57,6 +65,9 @@ alt="Header banner"
   </picture>
 </p>
 
+<br />
+<br />
+
 <p align="right">
   <img
     src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png"
@@ -64,6 +75,10 @@ alt="Header banner"
     alt="Pikachu"
   />
 </p>
+
+<br />
+<br />
+
 
 <!-- Static Pikachu -->
 

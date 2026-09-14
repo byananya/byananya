@@ -54,15 +54,11 @@ alt="Header banner"
 <!-- GitHub contribution ambient gallery -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byananya/byananya/output/ambient-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byananya/byananya/output/ambient.svg?v=2" />
-    <img
-      src="https://raw.githubusercontent.com/byananya/byananya/output/ambient-dark.svg?v=2"
-      alt="GitHub contribution ambient gallery"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/byananya/byananya/output/ambient.svg?v=2"
+    alt="GitHub contribution ambient gallery"
+    width="100%"
+  />
 </p>
 
 <br />

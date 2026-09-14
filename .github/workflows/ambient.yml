@@ -12,32 +12,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout this repo
-        uses: actions/checkout@v4
-
-      - name: Checkout contribution-gallery source
-        uses: actions/checkout@v4
+      - uses: crosscore/contribution-gallery@v1
         with:
-          repository: crosscore/contribution-gallery
-          path: gallery
+          github_user_name: byananya
+          outputs: |
+            dist/ambient.svg?mode=ambient
+            dist/ambient-dark.svg?palette=dark&mode=ambient
 
-      - name: Install and build
-        working-directory: gallery
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npm install
-          npx tsx src/cli.ts --user byananya --mode ambient
-          npx tsx src/cli.ts --user byananya --mode ambient --dark
-
-      - name: Move SVGs into dist
-        run: |
-          mkdir -p dist
-          cp gallery/docs/ambient.svg dist/ambient.svg
-          cp gallery/docs/ambient-dark.svg dist/ambient-dark.svg
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

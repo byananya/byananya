@@ -19,7 +19,7 @@ jobs:
           config_timezone: America/Los_Angeles
 
           # Core sections
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
 
           # Cool Plugins
           plugin_languages: yes

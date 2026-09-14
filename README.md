@@ -43,16 +43,19 @@ alt="Header banner"
   autonomous agents, and distributed execution.
 </p> -->
 
-<!-- GitHub contribution snake -->
+<!-- GitHub contribution ambient gallery -->
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/byananya/byananya/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byananya/byananya/output/ambient-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byananya/byananya/output/ambient.svg" />
+    <img
+      src="https://raw.githubusercontent.com/byananya/byananya/output/ambient-dark.svg"
+      alt="GitHub contribution ambient gallery"
+      width="100%"
+    />
+  </picture>
 </p>
-
 
 <p align="right">
   <img

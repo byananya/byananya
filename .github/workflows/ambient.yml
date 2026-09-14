@@ -36,6 +36,7 @@ jobs:
         working-directory: gallery
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           INPUT_GITHUB_USER_NAME: byananya
           INPUT_OUTPUTS: |
             ../dist/ambient.svg?mode=ambient

@@ -58,6 +58,8 @@ alt="Header banner"
 </p>
 <!-- Introduction -->
 
+<br />
+<br />
 <div align="center">
 
 **𝗠𝗼𝗱𝗲𝗹 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 & 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴**

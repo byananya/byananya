@@ -53,11 +53,10 @@ alt="Header banner"
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3000&pause=1000&color=B79B72&center=true&vCenter=true&width=900&lines=AI+Systems+Researcher+%C2%B7+AI+Infrastructure+Engineer+%C2%B7+Founder+of+Pulse+AI;Designing+and+building+intelligent+systems+across+multimodal+AI%2C+model+orchestration%2C+inference%2C+and+distributed+execution;BTech+Computer+Science+and+Engineering+%C2%B7+MS+Computer+Science+Engineering+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
+    src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&size=22&duration=4000&pause=1000&color=B79B72&center=true&vCenter=true&width=1050&lines=AI+Systems+Researcher+%C2%B7+AI+Infrastructure+Engineer+%C2%B7+Founder%2C+CEO+and+CTO+of+Pulse+AI;Designing+intelligent+systems+across+multimodal+AI%2C+orchestration%2C+and+inference;BTech+Computer+Science+Engineering+%C2%B7+MS+Computer+Science+Engineering+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
     alt="Introduction"
   />
 </p>
-
 <br />
 
 <!-- AI Systems Engineering -->

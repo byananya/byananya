@@ -71,8 +71,8 @@ alt="Header banner"
 <br/>
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-C98B7B?style=plastic&logo=huggingface&logoColor=4A2C3D&labelColor=F5E6E0&color=C98B7B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-C98B7B?style=plastic&logo=opencv&logoColor=4A2C3D&labelColor=F5E6E0&color=C98B7B)
-![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-C98B7B?style=plastic&labelColor=F5E6E0&color=C98B7B)
-![Scene Intelligence](https://img.shields.io/badge/Scene%20Intelligence-C98B7B?style=plastic&labelColor=F5E6E0&color=C98B7B)
+![Document Parsing](https://img.shields.io/badge/Document%20Parsing-C98B7B?style=plastic&labelColor=F5E6E0&color=C98B7B)
+![Scene Understanding](https://img.shields.io/badge/Scene%20Understanding-C98B7B?style=plastic&labelColor=F5E6E0&color=C98B7B)
 
 **𝗜𝗻𝗳𝗲𝗿𝗲𝗻𝗰𝗲 & 𝗦𝗲𝗿𝘃𝗶𝗻𝗴**
 <br/>

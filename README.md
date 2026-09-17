@@ -126,10 +126,10 @@ alt="Header banner"
 
 <!-- Pikachu -->
 
-<p align="center">
+<p align="right">
   <img
     src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png"
-    width="120"
+    width="90"
     alt="Pikachu"
   />
 </p>

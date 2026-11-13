@@ -103,11 +103,17 @@ alt="Header banner"
 <!-- GitHub activity -->
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/byananya/byananya/output/ambient.svg?v=2"
-    alt="GitHub contribution activity"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/byananya/byananya/main/assets/contrib-ledger-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/byananya/byananya/main/assets/contrib-ledger-light.svg"
+      alt="Contribution ledger: yearly heatmap, streaks, monthly totals and weekly rhythm"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <br />

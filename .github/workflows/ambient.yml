@@ -1,0 +1,76 @@
+name: Generate Ambient Gallery
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Checkout contribution-gallery source
+        uses: actions/checkout@v4
+        with:
+          repository: crosscore/contribution-gallery
+          path: gallery
+
+      - name: Remove gallery header text and border
+        working-directory: gallery
+        run: |
+          python3 - <<'EOF'
+          import pathlib
+
+          ambient = pathlib.Path("src/renderer/ambient.ts")
+          drop_substrings = [
+              "CONTRIBUTION GALLERY",
+              "A year, in motion.",
+              "A little, every day.",
+          ]
+          lines = ambient.read_text().splitlines(keepends=True)
+          lines = [ln for ln in lines if not any(s in ln for s in drop_substrings)]
+          ambient.write_text("".join(lines))
+
+          theme = pathlib.Path("src/renderer/theme.ts")
+          ttext = theme.read_text()
+          ttext = ttext.replace('stroke="${theme.border}"', 'stroke="none"')
+          theme.write_text(ttext)
+          EOF
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build the action from source
+        working-directory: gallery
+        run: |
+          npm install
+          npm run build
+
+      - name: Run the built action
+        working-directory: gallery
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_USER_NAME: byananya
+          INPUT_OUTPUTS: |
+            ../dist/ambient.svg?mode=ambient
+            ../dist/ambient-dark.svg?palette=dark&mode=ambient
+        run: |
+          mkdir -p ../dist
+          node dist/index.js
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

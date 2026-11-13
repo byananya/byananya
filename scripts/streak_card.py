@@ -12,7 +12,24 @@ import math
 import os
 import urllib.request
 
-from contrib_graph import SANS, SERIF, THEMES
+
+THEMES = {
+    "light": {
+        "bg": "#FBF4EF", "border": "#EAD7CF", "ink": "#4A2C3D", "muted": "#9A8178",
+        "gold": "#B08A55", "accent": "#8E2B4A", "rule": "#EAD7CF",
+        "levels": ["#F0E2DC", "#F2C4CF", "#E28AA3", "#D4537E", "#8E2B4A"],
+        "bar": "#D4537E", "bar_peak": "#8E2B4A", "track": "#F0E2DC",
+    },
+    "dark": {
+        "bg": "#1A1216", "border": "#3A2A31", "ink": "#F5E6E0", "muted": "#A8918A",
+        "gold": "#C9A97A", "accent": "#F08FAE", "rule": "#33252B",
+        "levels": ["#2A1F24", "#5A2A3C", "#8E3A5A", "#D4537E", "#F08FAE"],
+        "bar": "#D4537E", "bar_peak": "#F08FAE", "track": "#2A1F24",
+    },
+}
+
+SERIF = "Fraunces, 'EB Garamond', Georgia, 'Times New Roman', serif"
+SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 
 YEAR_QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {

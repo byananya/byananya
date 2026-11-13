@@ -108,11 +108,6 @@ def render(days, theme_name):
     active = sum(1 for d in days if d["contributionCount"] > 0)
     first = dt.date.fromisoformat(next((d["date"] for d in days if d["contributionCount"] > 0), days[0]["date"]))
 
-    yearly = {}
-    for d in days:
-        y = int(d["date"][:4])
-        yearly[y] = yearly.get(y, 0) + d["contributionCount"]
-
     W, pad = 920, 32
     col = (W - 2 * pad) / 3
     cx = [pad + col * i + col / 2 for i in range(3)]
@@ -168,34 +163,8 @@ def render(days, theme_name):
     label(cx[2], 58, "LONGEST STREAK", t["gold"])
     big(cx[2], 122, f"{ln}<tspan font-size='22' fill='{t['muted']}'> days</tspan>", t["ink"], delay=100)
     sub(cx[2], 150, span(ls, le))
-    best_year = max(yearly, key=yearly.get)
 
-    # bottom: yearly strip
-    sy = 222
-    a(f'<line x1="{pad}" y1="{sy}" x2="{W - pad}" y2="{sy}" stroke="{t["rule"]}"/>')
-    label(pad, sy + 26, "BY YEAR", t["gold"], anchor="start")
-    years = sorted(yearly)
-    while len(years) > 1 and yearly[years[0]] == 0:  # skip empty leading years
-        years.pop(0)
-    mx = max(yearly[y] for y in years) or 1
-    sx = pad + 90
-    slot = (W - pad - sx) / len(years)
-    bw = min(64, slot - 14)
-    bh = 34
-    base = sy + 70
-    for i, y in enumerate(years):
-        v = yearly[y]
-        h = max(2, bh * v / mx)
-        x = sx + i * slot
-        mid = x + bw / 2
-        c = t["bar_peak"] if y == best_year else t["bar"]
-        a(f'<rect x="{x:.1f}" y="{base - bh}" width="{bw:.1f}" height="{bh}" rx="3" fill="{t["track"]}"/>')
-        a(f'<rect class="b" style="animation-delay:{400 + i * 70}ms" x="{x:.1f}" y="{base - h:.1f}" '
-          f'width="{bw:.1f}" height="{h:.1f}" rx="3" fill="{c}"/>')
-        a(f'<text x="{mid:.1f}" y="{base - bh - 6}" text-anchor="middle" font-family="{SANS}" '
-          f'font-size="11" font-weight="600" fill="{t["ink"]}">{v:,}</text>')
-        a(f'<text x="{mid:.1f}" y="{base + 14}" text-anchor="middle" font-family="{SANS}" '
-          f'font-size="10" fill="{t["muted"]}">{y}</text>')
+    base = 206
 
     H = base + 30
     css = (

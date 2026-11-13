@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render an all-time streak card SVG (light + dark).
+"""Render an all-time streak card SVG (dark).
 
 Usage:
   GH_TOKEN=... python scripts/streak_card.py --user byananya --out assets
@@ -14,11 +14,6 @@ import urllib.request
 
 
 THEMES = {
-    "light": {
-        "bg": "#FBF7F0", "border": "#E8DCCB", "ink": "#3A2420", "muted": "#8C7A6A",
-        "gold": "#B08A55", "accent": "#7A1F35", "rule": "#EADFCF",
-        "bar": "#B08A55", "bar_peak": "#7A1F35", "track": "#EFE6DA",
-    },
     "dark": {
         "bg": "#17110F", "border": "#33261F", "ink": "#F3E9DC", "muted": "#A8968A",
         "gold": "#C9A97A", "accent": "#B23B4A", "rule": "#2E231D",
@@ -160,10 +155,6 @@ def render(days, theme_name):
         a(f'<circle class="ring" cx="{cx[1]:.1f}" cy="{ry}" r="{r}" fill="none" stroke="{ring_col}" '
           f'stroke-width="8" stroke-linecap="round" stroke-dasharray="{circ * frac:.1f} {circ:.1f}" '
           f'style="--len:{circ * frac:.1f}" transform="rotate(-90 {cx[1]:.1f} {ry})"/>')
-    # alpona diamond at the crown of the ring
-    dx, dy = cx[1], ry - r
-    a(f'<path d="M{dx:.1f} {dy - 9} L{dx + 7:.1f} {dy} L{dx:.1f} {dy + 9} L{dx - 7:.1f} {dy} Z" '
-      f'fill="{t["gold"]}" stroke="{t["bg"]}" stroke-width="3"/>')
     big(cx[1], ry + 15, str(cur), t["ink"], size=42, delay=200)
     label(cx[1], ry + r + 26, "CURRENT STREAK", t["accent"])
     if cur:
@@ -178,7 +169,6 @@ def render(days, theme_name):
     big(cx[2], 122, f"{ln}<tspan font-size='22' fill='{t['muted']}'> days</tspan>", t["ink"], delay=100)
     sub(cx[2], 150, span(ls, le))
     best_year = max(yearly, key=yearly.get)
-    sub(cx[2], 172, f"Best year {best_year} · {yearly[best_year]:,}")
 
     # bottom: yearly strip
     sy = 222
@@ -241,11 +231,10 @@ def main():
             raise SystemExit("Set GH_TOKEN")
         days = fetch_all(args.user, token)
     os.makedirs(args.out, exist_ok=True)
-    for name in THEMES:
-        path = os.path.join(args.out, f"streak-card-{name}.svg")
-        with open(path, "w") as f:
-            f.write(render(days, name))
-        print("wrote", path)
+    path = os.path.join(args.out, "streak-card.svg")
+    with open(path, "w") as f:
+        f.write(render(days, "dark"))
+    print("wrote", path)
 
 
 if __name__ == "__main__":

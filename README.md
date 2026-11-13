@@ -106,6 +106,22 @@ alt="Header banner"
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/byananya/byananya/main/assets/streak-card-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/byananya/byananya/main/assets/streak-card-light.svg"
+      alt="All-time contributions, current streak and longest streak"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/byananya/byananya/main/assets/contrib-ledger-dark.svg"
     />
     <img

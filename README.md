@@ -104,6 +104,16 @@ alt="Header banner"
 
 <p align="center">
   <img
+    src="https://raw.githubusercontent.com/byananya/byananya/main/assets/streak-card.svg"
+    alt="All-time contributions, current streak and longest streak"
+    width="100%"
+  />
+</p>
+
+<br />
+
+<p align="center">
+  <img
     src="https://raw.githubusercontent.com/byananya/byananya/output/ambient.svg?v=2"
     alt="GitHub contribution activity"
     width="100%"

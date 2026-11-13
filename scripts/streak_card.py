@@ -15,16 +15,14 @@ import urllib.request
 
 THEMES = {
     "light": {
-        "bg": "#FBF4EF", "border": "#EAD7CF", "ink": "#4A2C3D", "muted": "#9A8178",
-        "gold": "#B08A55", "accent": "#8E2B4A", "rule": "#EAD7CF",
-        "levels": ["#F0E2DC", "#F2C4CF", "#E28AA3", "#D4537E", "#8E2B4A"],
-        "bar": "#D4537E", "bar_peak": "#8E2B4A", "track": "#F0E2DC",
+        "bg": "#FBF7F0", "border": "#E8DCCB", "ink": "#3A2420", "muted": "#8C7A6A",
+        "gold": "#B08A55", "accent": "#7A1F35", "rule": "#EADFCF",
+        "bar": "#B08A55", "bar_peak": "#7A1F35", "track": "#EFE6DA",
     },
     "dark": {
-        "bg": "#1A1216", "border": "#3A2A31", "ink": "#F5E6E0", "muted": "#A8918A",
-        "gold": "#C9A97A", "accent": "#F08FAE", "rule": "#33252B",
-        "levels": ["#2A1F24", "#5A2A3C", "#8E3A5A", "#D4537E", "#F08FAE"],
-        "bar": "#D4537E", "bar_peak": "#F08FAE", "track": "#2A1F24",
+        "bg": "#17110F", "border": "#33261F", "ink": "#F3E9DC", "muted": "#A8968A",
+        "gold": "#C9A97A", "accent": "#B23B4A", "rule": "#2E231D",
+        "bar": "#C9A97A", "bar_peak": "#B23B4A", "track": "#2A201B",
     },
 }
 

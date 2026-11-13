@@ -104,7 +104,7 @@ alt="Header banner"
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/byananya/byananya/main/assets/streak-card.svg"
+    src="https://raw.githubusercontent.com/byananya/byananya/main/assets/streak-card.svg?v=2"
     alt="All-time contributions, current streak and longest streak"
     width="100%"
   />

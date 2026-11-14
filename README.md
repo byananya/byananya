@@ -50,6 +50,10 @@ alt="Header banner"
 <br />
 
 
+<!-- <p align="center">
+  <img src="https://ghchart.rshah.org/39d353/byananya" width="100%" alt="Contribution calendar" />
+</p> -->
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&size=22&duration=4000&pause=1000&color=B79B72&center=true&vCenter=true&width=1050&lines=AI+Systems+Researcher+%C2%B7+AI+Automation+Engineer+%C2%B7+Founder%2C+CEO+and+CTO+of+Pulse+AI;BTech+Computer+Science+Engineering+%C2%B7+MS+Computer+Science+Engineering+at+UCSC;Previously+at+Infosys%2C+Shell%2C+Inovalon+and+others"
@@ -102,7 +106,10 @@ alt="Header banner"
 
 <!-- GitHub activity -->
 
-
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=byananya&theme=github_dark" height="180" alt="Commit hours" />
+  <img src="https://streak-stats.demolab.com?user=byananya&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakNum=F4EDE0&currStreakLabel=C9A86A&sideNums=F4EDE0&sideLabels=C9A86A&dates=8B949E&stroke=30363D" height="180" alt="Streak" />
+</p>
 
 <br />
 

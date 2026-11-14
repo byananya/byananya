@@ -145,6 +145,8 @@ alt="Header banner"
   />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=6&section=header" width="100%"/>
+
 <br />
 
 <!-- Footer banner -->
